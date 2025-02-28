@@ -1,6 +1,6 @@
 # Lab: Files and File Encodings
 
-<img src=img/python.jpg width=400px />
+<img src=img/python.jpeg width=400px />
 
 This lab presents several historic scenarios where you will have to write python code to read non-English files.
 You will practice:

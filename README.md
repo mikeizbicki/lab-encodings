@@ -1,6 +1,7 @@
 # Lab: Files and File Encodings
 
-**Purpose:**
+<img src=img/python.jpg width=400px />
+
 This lab presents several historic scenarios where you will have to write python code to read non-English files.
 You will practice:
 1. how to use data provided in a github repo
